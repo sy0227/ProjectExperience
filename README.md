@@ -9,7 +9,7 @@
 | 05   | HCI                  | [스마트유아용침대(아두이노)](https://github.com/sy0227/ProjectExperience/blob/main/05.HCI-%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%9C%A0%EC%95%84%EC%9A%A9%EC%B9%A8%EB%8C%80(%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8).pdf "pdf 05 link") |                              |
 | 06   | UI/UX Design         | [BlueAwards-UI:UXDesign](https://github.com/sy0227/ProjectExperience/blob/main/06.BlueAwards-UI:UXDesign.pdf "pdf 06 link") |                              |
 | 07   | Web(BE, FE), DB      | [아파트가격조회서비스](https://github.com/sy0227/ProjectExperience/blob/main/07.Web-%EC%95%84%ED%8C%8C%ED%8A%B8%EA%B0%80%EA%B2%A9%EC%A1%B0%ED%9A%8C%EC%84%9C%EB%B9%84%EC%8A%A4.pdf "pdf 07 link") | https://youtu.be/jrfZugf6Y4M |
-| 08   | Web(BE, FE), DB      | [업무 효율화를 위한 KPI 시각화](~~.pdf "pdf 08 link") | https://youtu.be/aduijNPwYRE |
+| 08   | Web(BE, FE), DB      | [업무 효율화를 위한 KPI 시각화](https://github.com/sy0227/ProjectExperience/blob/main/08.%E1%84%8B%E1%85%A5%E1%86%B8%E1%84%86%E1%85%AE%E1%84%92%E1%85%AD%E1%84%8B%E1%85%B2%E1%86%AF%E1%84%92%E1%85%AA%E1%84%85%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%B1%E1%84%92%E1%85%A1%E1%86%ABKPI%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%AA.pdf "pdf 08 link") | https://youtu.be/aduijNPwYRE |
 
 
 
